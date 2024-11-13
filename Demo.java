@@ -3,6 +3,7 @@ public class prajwal{
 public static void main(String[] args){
 
   int c=30;
+int z=20;
 }
 {
   int a=20;
